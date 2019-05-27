@@ -7,9 +7,14 @@
   <body>
     <table>
     <tr>
-      <td>Titulo 1</td>
-      <td>linea 1,2</td>
-      <td>linea 1,3</td>
+      <td>Puesto</td>
+      <td>Nombre del Equipo</td>
+      <td>Puntos totales</td>
+      <td>Partidos ganados</td>
+      <td>Partidos perdidos</td>
+      <td>Partidos empatados</td>
+      <td>Goles a favor</td>
+      <td>Goles en contra</td>
     </tr>
     </table>
   </body>
